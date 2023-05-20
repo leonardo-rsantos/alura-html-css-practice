@@ -1,4 +1,4 @@
-# alura-html-css-practice
+# Alura Plus - Prática de HTML e CSS
 
 # Figma:
 
